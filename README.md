@@ -18,7 +18,7 @@ Convert currencies effortlessly with this simple and intuitive Currency Converte
 
 Follow these simple steps to get started with the Currency Converter:
 
-1. Clone the repository: `git clone https://github.com/your-username/currency-converter.git`
+1. Clone the repository: `git@github.com:TatianaMakunike111/Currency-Converter.git`
 2. Install dependencies: `npm install` (or `yarn install`)
 3. Run the application: `npm start` (or `yarn start`)
 
