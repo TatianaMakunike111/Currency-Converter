@@ -16,10 +16,38 @@ Convert currencies effortlessly with this simple and intuitive Currency Converte
 
 ## Getting Started
 
-Follow these simple steps to get started with the Currency Converter:
+Follow these simple steps to get started with the Currency Converter and Run Locally:
 
 1. Clone the repository: `git@github.com:TatianaMakunike111/Currency-Converter.git`
-2. Install dependencies: `npm install` (or `yarn install`)
-3. Run the application: `npm start` (or `yarn start`)
+
+2. **Open Terminal:**
+   - On Windows, you can use Command Prompt or PowerShell.
+   - On macOS or Linux, you can use Terminal.
+
+3. **Navigate to Your Project Directory:**
+   Use the `cd` command to navigate to the directory where your HTML, CSS, and JavaScript files are located. Assuming your folder is named "Currency-Converter," the command would be:
+
+   ```bash
+   cd path/to/Currency-Converter
+
+4. **Start a Local Server:**
+ If you have Python installed, use the following command to start a simple web server on port 5502:
+ python -m http.server 5502 
+ or
+ python3 -m http.server 5502 (For Python 3:) 
+ or
+  npx http-server -p 5502 (if you are using Node.js)
+
+  This will start the server on port 5502.
+
+5. **Access the Website:**
+Open your web browser and navigate to http://localhost:5502. You should see your Currency Converter website.
+
+If you are using a different port, replace 5502 with the correct port number.
+
+6.**Stop the Server:**
+To stop the server, go back to the Terminal window and press Ctrl+C.
+
+Make sure to keep the Terminal window open while you want the server to be running.
 
 Happy converting!
